@@ -2,7 +2,7 @@
 Basic framework 
 
 You need:
-- .NET 10.0 or later
+- .NET 8.0 or later
 - Playwright browsers (automatically installed on first run)
 
 Run all tests:
